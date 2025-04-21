@@ -1,1 +1,1 @@
-# dodgecoin-vs-fed
+# dogecoin-vs-fed
