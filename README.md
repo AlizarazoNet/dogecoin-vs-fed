@@ -28,6 +28,14 @@ Here are the core charts generated:
   Predictive-style overlay showing directional trends for both variables
 
 > Visualizations are created using `matplotlib`, `seaborn`, and also exported to Power BI (`dogecoin_vs_fed.pbix`)
+> ### Dogecoin vs Fed Funds Rate (Dual-axis Line Chart)
+![Dogecoin vs Fed Funds Rate](images/doge_vs_fed_line.png)
+### Monthly % Change in Dogecoin Price
+![DOGE Monthly Percent Change](images/doge_vs_fed_percentage_change.png)
+### Trendlines (Regression)
+![Trend Comparison](images/doge_vs_fed_trend_comparison.png)
+
+
 
  📌 Insights
 
