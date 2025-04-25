@@ -1,3 +1,4 @@
+![Dogecoin](Power_BI_visuals/dogecoin.png)
 # dogecoin-vs-fed
 # Custom BI project analyzing the relationship between Dogecoin price trends and U.S. interest rates over the last 5 years.
 # 📊 Dogecoin vs. Fed Interest Rate (2021–2025)
@@ -61,7 +62,7 @@ Dogecoin is heavily influenced by non-economic forces (e.g., social media hype).
 
     This analysis offers a foundation for exploring market psychology during monetary tightening or easing cycles. Anyway like one of my clasmate wrote 
 
- ![Dogecoin](Power_BI_visuals\dogecoin.png)
+ 
 ---
 
 ## 📈 Visualizations
@@ -87,11 +88,11 @@ Here are the core charts generated:
 
 ## 📊 Power BI Dashboard Visuals
 
-![Dogecoin vs Fed Page 1](Power_BI_visuals\PowerBI_pg1.png)
+![Dogecoin vs Fed Page 1](Power_BI_visuals/PowerBI_pg1.png)
 
-![Dogecoin vs Fed Page 2](Power_BI_visuals\PowerBI_pg2.png)
+![Dogecoin vs Fed Page 2](Power_BI_visuals/PowerBI_pg2.pngPowerBI_pg2.png)
 
-![Dogecoin vs Fed Page 3](Power_BI_visuals\PowerBI_pg3.png)
+![Dogecoin vs Fed Page 3](Power_BI_visuals/PowerBI_pg3.png)
 
 
 
